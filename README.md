@@ -1,5 +1,6 @@
-👋 Hey there! I'm Muhammad Usman
-I'm a Software Engineer in the making currently pursuing my BSSE at COMSATS University. Passionate about solving complex problems and automating workflows, I specialize in:
+👋 Hey there! I'm Muhammad Usman\n
+I'm a Software Engineer in the making currently pursuing my BSSE at COMSATS University. \n
+Passionate about solving complex problems and automating workflows, I specialize in:\n
 
 🚀 Discord Bot Development – Building feature-rich, interactive bots.
 🕵️‍♂️ Web Scraping & Automation – Extracting and automating data efficiently.
