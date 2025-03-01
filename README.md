@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am currently studying BSSE in COMSATS university.<br>
+👋 Hey there! I'm [Muhammad Usman]
+I'm a Software Engineer in the making currently pursuing my BSSE at COMSATS University. Passionate about solving complex problems and automating workflows, I specialize in:
+
+🚀 Discord Bot Development – Building feature-rich, interactive bots.
+🕵️‍♂️ Web Scraping & Automation – Extracting and automating data efficiently.
+🌐 Web Development – Crafting dynamic and responsive websites.
+⚙️ Low-Level Development – Optimizing performance with system-level programming.
+
+I'm always exploring new technologies, working on exciting projects, and contributing to open-source. Feel free to check out my repositories and connect with me!
+
+💬 Let's collaborate! If you have an interesting project, drop me a message.<br>
 
 
 ## 🌐 Socials:
