@@ -1,4 +1,4 @@
-👋 Hey there! I'm [Muhammad Usman]
+👋 Hey there! I'm Muhammad Usman
 I'm a Software Engineer in the making currently pursuing my BSSE at COMSATS University. Passionate about solving complex problems and automating workflows, I specialize in:
 
 🚀 Discord Bot Development – Building feature-rich, interactive bots.
